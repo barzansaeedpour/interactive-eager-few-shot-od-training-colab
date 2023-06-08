@@ -11,8 +11,8 @@ In this repository we demonstrate fine tuning of a (TF2 friendly) RetinaNet arch
 ## Table of Contents
 
 
-- [Annotating images with bounding boxes](#annotating-images-with-bounding-boxes)
 - [Tensorflow Object Detection API](#tensorflow-object-detection-api)
+- [Annotating images with bounding boxes](#annotating-images-with-bounding-boxes)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
